@@ -8,6 +8,7 @@ public class GitJenkinsIntegrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitJenkinsIntegrationApplication.class, args);
+		//some comment
 	}
 
 }
